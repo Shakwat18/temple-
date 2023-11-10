@@ -1,0 +1,35 @@
+{
+
+
+"students":[{
+"name":"shakwat hossen",
+"middlename":null,
+"age":31,
+"cgpa":3.44,
+"isRegistered":true,
+"languages":[
+    "bengli","english","hindi"
+],
+"friends":[
+    {"name":"anar",
+"age":23},
+    {"name":"rahul",
+"age":28}
+]
+},
+{
+"name":"rageya",
+"middlename":null,
+"age":21,
+"cgpa":3.0,
+"isRegistered":false,
+"languages":[
+    "bengli","english","hindi","finnish"
+],
+"friends":[
+    {"name":"shakila",
+"age":16},
+    {"name":"rukeya",
+"age":18}
+]
+}]}
